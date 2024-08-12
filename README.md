@@ -1,5 +1,11 @@
 # Magical Arena Game
-=====================
+Magical Arena is a turn-based strategy game where two players engage in a magical battle. The game is implemented in Java and features a console-based interface.
+
+============================================================================================
+# For a comprehensive overview of the project execution, please watch the full walkthrough on YouTube:
+[![Project Execution Demo](https://img.youtube.com/vi/l16lrGbRxhg/0.jpg)](https://youtu.be/l16lrGbRxhg?si=I9vz2oYtexIpsKiE)
+
+============================================================================================
 
 ## Problem Statement
 Design a Magical Arena. Every Player is defined by a “health” attribute, “strength” attribute and an “attack” attribute - all positive integers. The player dies if his health attribute touches 0. 
@@ -19,9 +25,6 @@ Any two player can fight a match in the arena. Players attack in turns. Attackin
 
 * And so on
 
-
-## Overview
-Magical Arena is a turn-based strategy game where two players engage in a magical battle. The game is implemented in Java and features a console-based interface.
 
 ## Features
 * Two game modes: Auto and Manual
